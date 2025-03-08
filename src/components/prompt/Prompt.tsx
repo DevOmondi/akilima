@@ -55,7 +55,7 @@ const ClaudePrompt: React.FC = () => {
 
   return (
     <div className="prompt-container">
-      <h2>Ask AI</h2>
+      <h2>Ask AKILIMA</h2>
       <form
         onSubmit={(e) => {
           e.preventDefault();
