@@ -1,0 +1,26 @@
+.audio{
+    width:100%;
+    border-radius: 0.5rem;
+    padding-left: 50px;
+    span{
+        font-size: 16px;
+        color:#ddde;
+        font-weight: bolder;
+        margin-bottom: 10px;
+    }
+    .audio-display{
+        display: flex;
+        flex-direction: row;
+        button{
+            background-color:#436ee6;
+            cursor:pointer;
+            height:3rem;
+            color:#fff;
+            margin-left: 20px;
+            width:5rem;
+            border-radius: 10px;
+            border:none;
+        }
+    }
+    
+}
